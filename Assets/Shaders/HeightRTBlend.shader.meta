@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 40410178ea60b9149a4afec5f32371ae
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _LowHeightTex: {instanceID: 0}
+  - _RTBlendTex: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
